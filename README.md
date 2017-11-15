@@ -5,3 +5,10 @@ PHP、Node.js、Cocos2D开发和生活中常用的软件
 + Clover
 + SourceTree
 + Cmder
++ Shadowsocks
++ Xshell
++ Xftp
++ nvm
++ Vitualbox
++ PhpStorm
++ WebStorm
