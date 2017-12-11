@@ -9,6 +9,9 @@ PHP、Node.js、Cocos2d-x/Cocos Creator开发和生活中常用的软件
 + VirtualBox
 + Xshell
 + Xftp
++ Vagrant
++ Git
++ SourceTree
 
 ### PHP
 + PhpStorm
@@ -17,6 +20,8 @@ PHP、Node.js、Cocos2d-x/Cocos Creator开发和生活中常用的软件
 ### Node.js
 + nvm
 + WebStorm
++ Visual Studio Code
 
 ### Cocos2d-x/Cocos Creator
 + Cocos Creator
++ ShoeBox
